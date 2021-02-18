@@ -1,3 +1,1 @@
-welcome to source code
-management using git and
-github
+welcome to rvr@ jc
