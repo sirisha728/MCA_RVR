@@ -2,9 +2,9 @@ Sirisha Raavi
 ============
 
 -------------------     ----------------------------
-- Email                    sirisharaavi9@gmail.com
-- Phone                    7989017456
-- MyCountry                India        
+- Email              :    sirisharaavi9@gmail.com
+- Phone              :    7989017456
+- MyCountry          :    India        
 -------------------     ----------------------------
 
 Education
