@@ -40,10 +40,10 @@ certifications
 Personal Info
 --------------------
 
-Father Name      :      Raavi Edukondalu
-DOB              :      15/06/1999
-Gender           :      Female
-Address          :      #3-163
+- Father Name      :      Raavi Edukondalu
+- DOB              :      15/06/1999
+- Gender           :      Female
+- Address          :      #3-163
                         Kunduruvaripalem
                         Muppalla(Mandal)
                         Guntur(Dis)-522001
