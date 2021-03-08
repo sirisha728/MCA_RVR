@@ -25,11 +25,11 @@ Education
 Skills
 --------------------
 
--C
--Java
--Python
--Web Technologies
--Git And Github
+- C
+- Java
+- Python
+- Web Technologies
+- Git And Github
 
 certifications
 --------------------
