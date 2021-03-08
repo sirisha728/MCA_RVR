@@ -34,8 +34,8 @@ Skills
 certifications
 --------------------
 
--Successfully Completeted **Python Programming** in Udemy
--Successfully Completeted **Internet of Things** in NPTEL SWAYAM
+- Successfully Completeted **Python Programming** in Udemy
+- Successfully Completeted **Internet of Things** in NPTEL SWAYAM
 
 Personal Info
 --------------------
